@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "𝗙𝗼𝗿𝘁𝗵-𝘆𝗲𝗮𝗿 information system student, future business analyst. My ambition is to apply technology and AI to change way of doing traditional business analyst.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Software Development Life Cycle (SDLC)",
+  "Microsoft SQL Server",
+  "IT Business Analysis",
+  "Information Technology",
+  "Customer Relationship Management (CRM)",
+  "Information Technology Infrastructure",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "My goal is to become a business analyst who can bridge the gap between business needs and technical solutions. I want to use my analytical and communication skills to understand the requirements and challenges of different stakeholders, and to propose effective and innovative solutions that can improve business performance and customer satisfaction.";
 
 const About = () => {
   return (
